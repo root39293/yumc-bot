@@ -11,5 +11,5 @@ Yeungnam University Minecraft Server Discord Bot Implemented in Python
 
 ## Setup
 
-This project communicates with an external server to process user authentication. Therefore, a `.env` file must be used to configure the `URL` and `TOKEN` variables.
+This bot communicates with an external server to process user authentication. Therefore, a `.env` file must be used to configure the `URL` and `TOKEN` variables.
 
